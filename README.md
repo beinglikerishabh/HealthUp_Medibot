@@ -3,27 +3,7 @@
 A complete website with AI bot for your Health Assistance .
 check the code to know in details
 
-## pre requisite- run the npm install command
-
-```
-git clone https://github.com/beinglikerishabh/HealthUp_Medibot.git
-```
-
-```
-cd Health_Medibot
-```
-
-```
-npm i
-```
-
-- set the config files
-- create your dialogflow agent and integrate with the code
-- train the bot and replace the connection key
-- enjoy the work
-- If you have any Queries or Suggestions, feel free to reach out to me.
-
-### My Tech Toolbox for this project 🧰
+### Tech Toolbox for this project 🧰
 
 <p align="left">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="html5" height="40"/> 
@@ -34,6 +14,28 @@ npm i
 <img src="https://img.icons8.com/color/48/000000/mongodb.png"alt="MongoDB" width="40" height="40"/>
 <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"alt="VScode" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/000000/pug.png" alt="pug" width="40" height="40"/>
+
+
+## pre requisite- Follow the Steps
+-  clone the repo
+```
+git clone https://github.com/beinglikerishabh/HealthUp_Medibot.git
+```
+- get into the project directory
+```
+cd Health_Medibot
+```
+- run the installer to get the node modules
+```
+npm i
+```
+
+- set the config files
+- create your dialogflow agent and integrate with the code
+- train the bot and replace the connection key
+- enjoy the work
+- If you have any Queries or Suggestions, feel free to reach out to me.
+
 
 - Ask me about anything, I'll be happy to help.
 
