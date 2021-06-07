@@ -7,9 +7,13 @@ check the code to know in details
 
 ```
 git clone https://github.com/beinglikerishabh/HealthUp_Medibot.git
+```
 
+```
 cd Health_Medibot
+```
 
+```
 npm i
 ```
 
