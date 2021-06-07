@@ -6,6 +6,10 @@ check the code to know in details
 ## pre requisite- run the npm install command
 
 ```
+git clone https://github.com/beinglikerishabh/HealthUp_Medibot.git
+
+cd Health_Medibot
+
 npm i
 ```
 
