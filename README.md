@@ -1,4 +1,4 @@
-# [HealthUp - Your Heaalth Assistance]()
+# [HealthUp - Your Health Assistance]
 
 A complete website with AI bot for your Health Assistance .
 check the code to know in details
